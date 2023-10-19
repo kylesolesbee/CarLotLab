@@ -1,0 +1,14 @@
+C:\Users\ksole\Documents\GrandCircus\CarLotLab\bin\Debug\net6.0\CarLotLab.exe
+C:\Users\ksole\Documents\GrandCircus\CarLotLab\bin\Debug\net6.0\CarLotLab.deps.json
+C:\Users\ksole\Documents\GrandCircus\CarLotLab\bin\Debug\net6.0\CarLotLab.runtimeconfig.json
+C:\Users\ksole\Documents\GrandCircus\CarLotLab\bin\Debug\net6.0\CarLotLab.dll
+C:\Users\ksole\Documents\GrandCircus\CarLotLab\bin\Debug\net6.0\CarLotLab.pdb
+C:\Users\ksole\Documents\GrandCircus\CarLotLab\obj\Debug\net6.0\CarLotLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksole\Documents\GrandCircus\CarLotLab\obj\Debug\net6.0\CarLotLab.AssemblyInfoInputs.cache
+C:\Users\ksole\Documents\GrandCircus\CarLotLab\obj\Debug\net6.0\CarLotLab.AssemblyInfo.cs
+C:\Users\ksole\Documents\GrandCircus\CarLotLab\obj\Debug\net6.0\CarLotLab.csproj.CoreCompileInputs.cache
+C:\Users\ksole\Documents\GrandCircus\CarLotLab\obj\Debug\net6.0\CarLotLab.dll
+C:\Users\ksole\Documents\GrandCircus\CarLotLab\obj\Debug\net6.0\refint\CarLotLab.dll
+C:\Users\ksole\Documents\GrandCircus\CarLotLab\obj\Debug\net6.0\CarLotLab.pdb
+C:\Users\ksole\Documents\GrandCircus\CarLotLab\obj\Debug\net6.0\CarLotLab.genruntimeconfig.cache
+C:\Users\ksole\Documents\GrandCircus\CarLotLab\obj\Debug\net6.0\ref\CarLotLab.dll
